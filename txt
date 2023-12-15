@@ -1,0 +1,6 @@
+https://tailwindcss.com/docs/guides/nuxtjs#modules
+npx nuxi init my-project
+cd my-project
+npm install
+npx nuxi module add @nuxtjs/tailwindcss
+npx tailwindcss init
